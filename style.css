@@ -4,11 +4,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
-    width: 45vh;
+    height: 100vh;
+    width: 49vh;
     background-color: #f4f4f4;
     border: 1px black solid;
-    margin-left: 2px;
+    margin-left: 1px;
     margin-top: 4px;
 }
 .calculator{
