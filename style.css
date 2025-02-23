@@ -1,9 +1,15 @@
+.name{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+
 body{
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 75vh;
+    height: 90vh;
     width: 49vh;
     background-color: #f4f4f4;
     border: 1px black solid;
